@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrobotics_textbook=globalThis.webpackChunkrobotics_textbook||[]).push([[647],{7121:(e,o,s)=>{s.r(o),s.d(o,{default:()=>i});s(6540);var r=s(4164),t=s(7559),a=s(5500),c=s(2831),u=s(2161),b=s(4848);function i(e){return(0,b.jsx)(a.e3,{className:(0,r.A)(t.G.wrapper.docsPages),children:(0,b.jsx)(u.A,{children:(0,c.v)(e.route.routes)})})}}}]);
