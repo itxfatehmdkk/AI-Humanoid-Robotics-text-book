@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/physics-simulation-gazebo",
+  "title": "Physics Simulation in Gazebo",
+  "description": "Understanding physics simulation in Gazebo: Gravity, collisions, joints, controllers",
+  "source": "@site/docs/module-2-digital-twin/physics-simulation-gazebo.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/physics-simulation-gazebo",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/physics-simulation-gazebo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-2-digital-twin/physics-simulation-gazebo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Physics Simulation in Gazebo",
+    "title": "Physics Simulation in Gazebo",
+    "description": "Understanding physics simulation in Gazebo: Gravity, collisions, joints, controllers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoids",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/urdf-humanoids"
+  },
+  "next": {
+    "title": "Unity for Human–Robot Interaction",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/unity-hri"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-3-ai-brain/isaac-sim-foundations",
+  "title": "Isaac Sim Foundations",
+  "description": "Introduction to NVIDIA Isaac Sim",
+  "source": "@site/docs/module-3-ai-brain/isaac-sim-foundations.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/isaac-sim-foundations",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/isaac-sim-foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-3-ai-brain/isaac-sim-foundations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Isaac Sim Foundations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulating Robotic Sensors",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/simulating-robotic-sensors"
+  },
+  "next": {
+    "title": "Isaac ROS: Accelerated Vision & SLAM",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/isaac-ros-accelerated-vision-slam"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "/AI-Humanoid-Robotics-text-book/chat-ba6": {
+    "__comp": "e8276818",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/AI-Humanoid-Robotics-text-book/-46a": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/AI-Humanoid-Robotics-text-book/-9b4": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/AI-Humanoid-Robotics-text-book/-c52": {
+    "__comp": "a7bd4aaa",
+    "__props": "fd4aa6fc"
+  },
+  "/AI-Humanoid-Robotics-text-book/-04e": {
+    "__comp": "a94703ab"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/advanced-ros2-concepts-663": {
+    "__comp": "17896441",
+    "content": "4628f391"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/advanced-urdf-humanoids-674": {
+    "__comp": "17896441",
+    "content": "e862b6ac"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/python-agents-rclpy-8d3": {
+    "__comp": "17896441",
+    "content": "75e87a54"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/ros2-fundamentals-f6e": {
+    "__comp": "17896441",
+    "content": "0693733e"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/urdf-humanoids-38c": {
+    "__comp": "17896441",
+    "content": "1d323bfe"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/physics-simulation-gazebo-fd9": {
+    "__comp": "17896441",
+    "content": "5eedc8ba"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/simulating-robotic-sensors-5af": {
+    "__comp": "17896441",
+    "content": "23f89bca"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-2-digital-twin/unity-hri-30e": {
+    "__comp": "17896441",
+    "content": "bfc2b222"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/isaac-ros-accelerated-vision-slam-20e": {
+    "__comp": "17896441",
+    "content": "e9fb23ac"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/isaac-sim-foundations-125": {
+    "__comp": "17896441",
+    "content": "aeead1c9"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/nav2-humanoid-navigation-205": {
+    "__comp": "17896441",
+    "content": "ba2c4721"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-4-vla/capstone-autonomous-humanoid-126": {
+    "__comp": "17896441",
+    "content": "57d13b73"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-4-vla/cognitive-planning-using-llms-15f": {
+    "__comp": "17896441",
+    "content": "c21017ab"
+  },
+  "/AI-Humanoid-Robotics-text-book/module-4-vla/voice-to-action-whisper-ros2-e0f": {
+    "__comp": "17896441",
+    "content": "bb7f3c83"
+  },
+  "/AI-Humanoid-Robotics-text-book/-2ce": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}
