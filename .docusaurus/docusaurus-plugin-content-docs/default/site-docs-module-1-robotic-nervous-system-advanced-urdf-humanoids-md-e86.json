@@ -1,0 +1,28 @@
+{
+  "id": "module-1-robotic-nervous-system/advanced-urdf-humanoids",
+  "title": "Advanced URDF Modeling for Humanoids",
+  "description": "Comprehensive guide to modeling humanoid robots using URDF with kinematics, dynamics, and simulation considerations",
+  "source": "@site/docs/module-1-robotic-nervous-system/advanced-urdf-humanoids.md",
+  "sourceDirName": "module-1-robotic-nervous-system",
+  "slug": "/module-1-robotic-nervous-system/advanced-urdf-humanoids",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/advanced-urdf-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-1-robotic-nervous-system/advanced-urdf-humanoids.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Advanced URDF Modeling for Humanoids",
+    "title": "Advanced URDF Modeling for Humanoids",
+    "description": "Comprehensive guide to modeling humanoid robots using URDF with kinematics, dynamics, and simulation considerations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Agents + rclpy Control",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/python-agents-rclpy"
+  },
+  "next": {
+    "title": "URDF for Humanoids",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/urdf-humanoids"
+  }
+}

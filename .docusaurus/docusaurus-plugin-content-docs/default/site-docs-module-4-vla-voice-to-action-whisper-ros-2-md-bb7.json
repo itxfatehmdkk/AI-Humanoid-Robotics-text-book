@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/voice-to-action-whisper-ros2",
+  "title": "Voice-to-Action (Whisper + ROS 2)",
+  "description": "Introduction to Voice-to-Action Systems",
+  "source": "@site/docs/module-4-vla/voice-to-action-whisper-ros2.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/voice-to-action-whisper-ros2",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-4-vla/voice-to-action-whisper-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-4-vla/voice-to-action-whisper-ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Voice-to-Action (Whisper + ROS 2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nav2 for Humanoid Navigation",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/nav2-humanoid-navigation"
+  },
+  "next": {
+    "title": "Cognitive Planning Using LLMs",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-4-vla/cognitive-planning-using-llms"
+  }
+}

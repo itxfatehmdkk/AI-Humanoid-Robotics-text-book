@@ -1,0 +1,24 @@
+{
+  "id": "module-1-robotic-nervous-system/ros2-fundamentals",
+  "title": "ROS 2 Fundamentals",
+  "description": "Understanding the fundamentals of ROS 2: Nodes, Topics, Services, and Actions",
+  "source": "@site/docs/module-1-robotic-nervous-system/ros2-fundamentals.md",
+  "sourceDirName": "module-1-robotic-nervous-system",
+  "slug": "/module-1-robotic-nervous-system/ros2-fundamentals",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/ros2-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-1-robotic-nervous-system/ros2-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "ROS 2 Fundamentals",
+    "title": "ROS 2 Fundamentals",
+    "description": "Understanding the fundamentals of ROS 2: Nodes, Topics, Services, and Actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Advanced ROS 2 Concepts",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-1-robotic-nervous-system/advanced-ros2-concepts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-3-ai-brain/nav2-humanoid-navigation",
+  "title": "Nav2 for Humanoid Navigation",
+  "description": "Introduction to Navigation 2 (Nav2)",
+  "source": "@site/docs/module-3-ai-brain/nav2-humanoid-navigation.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/nav2-humanoid-navigation",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/nav2-humanoid-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-3-ai-brain/nav2-humanoid-navigation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Nav2 for Humanoid Navigation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS: Accelerated Vision & SLAM",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-3-ai-brain/isaac-ros-accelerated-vision-slam"
+  },
+  "next": {
+    "title": "Voice-to-Action (Whisper + ROS 2)",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-4-vla/voice-to-action-whisper-ros2"
+  }
+}

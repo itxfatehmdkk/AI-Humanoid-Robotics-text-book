@@ -1,0 +1,42 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* You can override the default Docusaurus styling with custom CSS here */
+/* Using mostly default Docusaurus styling with minimal customizations */
+
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+}
+
+/* Styles for the chat widget */
+.chat-widget-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+/* Fast transitions to prevent white screen flash on homepage only */
+html.homepage body,
+.homepage {
+  background: linear-gradient(135deg, #1a2a6c 0%, #2a5298 25%, #3a7bd5 50%, #00d2ff 100%);
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+  .chat-widget-container {
+    bottom: 10px;
+    right: 10px;
+  }
+}

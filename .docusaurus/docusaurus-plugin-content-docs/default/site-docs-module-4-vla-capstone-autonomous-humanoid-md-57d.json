@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vla/capstone-autonomous-humanoid",
+  "title": "Capstone: The Autonomous Humanoid",
+  "description": "Introduction to the Autonomous Humanoid Project",
+  "source": "@site/docs/module-4-vla/capstone-autonomous-humanoid.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/capstone-autonomous-humanoid",
+  "permalink": "/AI-Humanoid-Robotics-text-book/module-4-vla/capstone-autonomous-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/itxfatehmdkk/AI-Humanoid-Robotics-text-book/tree/main/textbook-frontend/docs/module-4-vla/capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Capstone: The Autonomous Humanoid"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cognitive Planning Using LLMs",
+    "permalink": "/AI-Humanoid-Robotics-text-book/module-4-vla/cognitive-planning-using-llms"
+  }
+}
